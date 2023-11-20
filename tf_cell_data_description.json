@@ -1,0 +1,1 @@
+{"description": "This file contains data on transcription factors (TF) and their corresponding cell types. Each row lists a unique TF along with a specific cell type.", "columns": {"TF": "Transcription Factor", "Cell": "Cell Type"}}
